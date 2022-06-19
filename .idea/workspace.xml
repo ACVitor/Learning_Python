@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110ffb4d-8469-4067-add8-43a507ac9886" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/002_Welcome_formats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/005_Succ_Pred.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006_Double_triple_squareroot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/007_Media.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/008_Conversor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/009_Table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010_Buy_dollars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/011_paintwall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012_discount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/013_Increase_salary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002_Welcome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/003_Soma.py" beforeDir="false" afterPath="$PROJECT_DIR$/003_Soma_formats.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/004_Read.py" beforeDir="false" afterPath="$PROJECT_DIR$/004_Read_is_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/008_Conversor.py" beforeDir="false" afterPath="$PROJECT_DIR$/008_Conversor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
