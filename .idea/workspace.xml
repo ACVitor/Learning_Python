@@ -3,6 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="110ffb4d-8469-4067-add8-43a507ac9886" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/001_Hello_World.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/002_Welcome_formats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/003_Soma_formats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/004_Read_is_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/005_Succ_Pred.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/006_Double_triple_squareroot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/007_Media.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/008_Conversor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/009_Table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/010_Buy_dollars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/011_paintwall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/012_discount.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/013_Increase_salary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/014_Temperature.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General Exercises/015_Rent_car.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +45,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/carva/Documents/Computação e programação/Repositories/Learning_Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/carva/Documents/Computação e programação/Repositories/Learning_Python/General Exercises",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\carva\Documents\Computação e programação\Repositories\Learning_Python\General Exercises" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\carva\Documents\Computação e programação\Repositories\Learning_Python\General Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.015_Rent_car">
-    <configuration name="011_paintwall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.021_Play_music (1)">
+    <configuration name="018_sin_cos_tg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\carva\Documents\Computação e programação\Repositories\Learning_Python\General Exercises\011_paintwall.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General Exercises/018_sin_cos_tg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="012_discount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="019_Chosen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\carva\Documents\Computação e programação\Repositories\Learning_Python\General Exercises\012_discount.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General Exercises/019_Chosen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="013_Increase_salary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="020_Presentation_order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\carva\Documents\Computação e programação\Repositories\Learning_Python\General Exercises\013_Increase_salary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General Exercises/020_Presentation_order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="014_Temperature" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="021_Play_music (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General_Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\carva\Documents\Computação e programação\Repositories\Learning_Python\General Exercises\014_Temperature.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General_Exercises/021_Play_music.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="015_Rent_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="021_Play_music" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/General Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\carva\Documents\Computação e programação\Repositories\Learning_Python\General Exercises\015_Rent_car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General Exercises/021_Play_music.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.015_Rent_car" />
-        <item itemvalue="Python.014_Temperature" />
-        <item itemvalue="Python.013_Increase_salary" />
-        <item itemvalue="Python.012_discount" />
-        <item itemvalue="Python.011_paintwall" />
+        <item itemvalue="Python.021_Play_music (1)" />
+        <item itemvalue="Python.021_Play_music" />
+        <item itemvalue="Python.020_Presentation_order" />
+        <item itemvalue="Python.019_Chosen" />
+        <item itemvalue="Python.018_sin_cos_tg" />
       </list>
     </recent_temporary>
   </component>
