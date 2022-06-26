@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110ffb4d-8469-4067-add8-43a507ac9886" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/General_Exercises/blue_danube.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/General_Exercises/danube_waltz.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Learning_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/General_Exercises/021_Play_music.py" beforeDir="false" afterPath="$PROJECT_DIR$/General_Exercises/021_Play_music.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/General_Exercises/The_Blue_Danube_Waltz.mp3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
