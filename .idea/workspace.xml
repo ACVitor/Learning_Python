@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110ffb4d-8469-4067-add8-43a507ac9886" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/General_Exercises/blue_danube.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General_Exercises/danube_waltz.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Learning_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/001_Hello_World.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/002_Welcome_formats.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/003_Soma_formats.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/004_Read_is_methods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/005_Succ_Pred.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/006_Double_triple_squareroot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/007_Media.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/008_Conversor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/009_Table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/010_Buy_dollars.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/011_paintwall.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/012_discount.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/013_Increase_salary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/014_Temperature.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/General Exercises/015_Rent_car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/General_Exercises/021_Play_music.py" beforeDir="false" afterPath="$PROJECT_DIR$/General_Exercises/021_Play_music.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/General_Exercises/The_Blue_Danube_Waltz.mp3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/carva/Documents/Computação e programação/Repositories/Learning_Python/General Exercises",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carva/Documents/Computing_Programming/Repositories/Learning_Python/General_Exercises&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\carva\Documents\Computing_Programming\Repositories\Learning_Python\General_Exercises" />
       <recent name="C:\Users\carva\Documents\Computação e programação\Repositories\Learning_Python\General Exercises" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
