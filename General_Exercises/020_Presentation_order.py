@@ -6,8 +6,7 @@ def presentation_draw():
     a3 = input('Enter with the student name: ')
     a4 = input('Enter with the student name: ')
     lista = [a1,a2,a3,a4]
-    random.shuffle(lista)
+    random.shuffle(lista)                   #Este método embaralha a lista
     print('{:=^29}'.format(' Order of the draw '))
-    print('1°: {}\n2°: {}\n3°: {}\n4°: {}'.format(lista[0],lista[1],lista[2],lista[3]))       #Este método embaralha a lista
-
+    print('1°: {}\n2°: {}\n3°: {}\n4°: {}'.format(lista[0],lista[1],lista[2],lista[3]))
 presentation_draw()
