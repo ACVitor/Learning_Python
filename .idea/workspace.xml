@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110ffb4d-8469-4067-add8-43a507ac9886" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/General_Exercises/028_Guesses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/General_Exercises/029_Traffic_ticket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/General_Exercises/030_Even_odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/General_Exercises/031_Ticket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/General_Exercises/032_Leap_year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/General_Exercises/033_Three_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/General_Exercises/034_Increase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/General_Exercises/035_triangle validity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General_Exercises/Colors_on_Terminal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/General_Exercises/032_Leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/General_Exercises/032_Leap_year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/General_Exercises/033_Three_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/General_Exercises/033_Three_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/General_Exercises/035_triangle validity.py" beforeDir="false" afterPath="$PROJECT_DIR$/General_Exercises/035_triangle validity.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +51,8 @@
       <recent name="C:\Users\carva\Documents\Computação e programação\Repositories\Learning_Python\General Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.035_triangle validity">
-    <configuration name="031_Ticket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Colors_on_Terminal">
+    <configuration name="029_Traffic_ticket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General_Exercises/031_Ticket.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General_Exercises/029_Traffic_ticket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="035_triangle validity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Colors_on_Terminal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General_Exercises/035_triangle validity.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/General_Exercises/Colors_on_Terminal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.035_triangle validity" />
+        <item itemvalue="Python.Colors_on_Terminal" />
         <item itemvalue="Python.034_Increase" />
         <item itemvalue="Python.033_Three_numbers" />
         <item itemvalue="Python.032_Leap_year" />
-        <item itemvalue="Python.031_Ticket" />
+        <item itemvalue="Python.029_Traffic_ticket" />
       </list>
     </recent_temporary>
   </component>
